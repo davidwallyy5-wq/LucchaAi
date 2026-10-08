@@ -1,0 +1,6 @@
+{
+  "name": "Luccha AI",
+  "description": "Minimal, premium AI conversational interface with liquid glass 3D visual identity and refined conversational depth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
